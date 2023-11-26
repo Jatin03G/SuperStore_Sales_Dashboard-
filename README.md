@@ -21,7 +21,7 @@ End Goal: Support the supermarket's objectives for growth, efficiency, and custo
 For detailed project implementation, code snippets, and outputs, please refer to the associated Jupyter notebooks and Python scripts in the GitHub repository 📂. Your engagement and contributions to the repository are highly encouraged. Together, we can leverage data for impactful business outcomes. 📈
 
 
-
+![Sales Dashboard](Main)
 
 
 
